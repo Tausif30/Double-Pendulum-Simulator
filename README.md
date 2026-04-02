@@ -10,6 +10,6 @@
 <h5>Lagrangian for the system.</h5>
 </br>
 </br>
-<img width="624" height="348" alt="Simulator" src="https://github.com/user-attachments/assets/15101db9-756d-44b9-a6e8-1f758f69e0cb" />
+<img width="1920" height="1040" alt="Simulator" src="https://github.com/user-attachments/assets/ad9101df-a9d0-4417-b8e6-c889137289d6" />
 </br>
 <h5>View of the Simulator.</h5>
